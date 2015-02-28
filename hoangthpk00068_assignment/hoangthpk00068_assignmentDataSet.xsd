@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="hoangthpk00068_assignmentDataSet" targetNamespace="http://tempuri.org/hoangthpk00068_assignmentDataSet.xsd" xmlns:mstns="http://tempuri.org/hoangthpk00068_assignmentDataSet.xsd" xmlns="http://tempuri.org/hoangthpk00068_assignmentDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="hoangthpk00068_assignmentConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="hoangthpk00068_assignmentConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.hoangthpk00068_assignment.My.MySettings.GlobalReference.Default.hoangthpk00068_assignmentConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="hoangthpk00068_assignmentDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="hoangthpk00068_assignmentDataSet" msprop:Generator_UserDSName="hoangthpk00068_assignmentDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
